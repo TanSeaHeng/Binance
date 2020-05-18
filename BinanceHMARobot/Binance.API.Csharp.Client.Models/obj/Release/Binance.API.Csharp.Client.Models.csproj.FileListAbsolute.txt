@@ -1,0 +1,9 @@
+D:\works\Trading\metatrader\Sea\BinanceHMARobot\Binance.API.Csharp.Client.Models\bin\Release\Binance.API.Csharp.Client.Models.dll
+D:\works\Trading\metatrader\Sea\BinanceHMARobot\Binance.API.Csharp.Client.Models\bin\Release\Binance.API.Csharp.Client.Models.pdb
+D:\works\Trading\metatrader\Sea\BinanceHMARobot\Binance.API.Csharp.Client.Models\bin\Release\Newtonsoft.Json.dll
+D:\works\Trading\metatrader\Sea\BinanceHMARobot\Binance.API.Csharp.Client.Models\bin\Release\Newtonsoft.Json.xml
+D:\works\Trading\metatrader\Sea\BinanceHMARobot\Binance.API.Csharp.Client.Models\obj\Release\Binance.API.Csharp.Client.Models.csproj.CoreCompileInputs.cache
+D:\works\Trading\metatrader\Sea\BinanceHMARobot\Binance.API.Csharp.Client.Models\obj\Release\Binance.API.Csharp.Client.Models.csproj.CopyComplete
+D:\works\Trading\metatrader\Sea\BinanceHMARobot\Binance.API.Csharp.Client.Models\obj\Release\Binance.API.Csharp.Client.Models.dll
+D:\works\Trading\metatrader\Sea\BinanceHMARobot\Binance.API.Csharp.Client.Models\obj\Release\Binance.API.Csharp.Client.Models.pdb
+D:\works\Trading\metatrader\Sea\BinanceHMARobot\Binance.API.Csharp.Client.Models\obj\Release\Binance.API.Csharp.Client.Models.csprojAssemblyReference.cache
